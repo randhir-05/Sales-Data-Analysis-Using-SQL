@@ -78,7 +78,7 @@ SQL: Structured Query Language for querying and managing the dataset.
 
 #How to Use This Repository
 Clone the repository:
-git clone https://github.com/randhir-05/Sales-Data-Analysis-Using-SQL.git
+git clone (https://github.com/randhir-05/Sales-Data-Analysis-Using-SQL/tree/main-branch)
 
 Load the dataset (SALES USING SQL DATASET.csv) into your preferred database.
 
